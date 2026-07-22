@@ -1,2 +1,2 @@
 # openTELEMAC_optimization
-Optimization for the original TELEMAC programs
+Optimization for the original openTELEMAC programs
