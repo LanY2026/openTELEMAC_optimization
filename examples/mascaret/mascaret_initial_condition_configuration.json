@@ -1,0 +1,57 @@
+{
+    "system_config": {
+        "config_file": "",
+        "config_name": ""
+    },
+
+    "models_configs": {
+        "chnl-1": {
+            "files": {
+                "xcas": "",
+                "geo": "",
+                "casier": "",
+                "tracer_conc": "",
+                "tracer_parphy": "",
+                "tracer_meteo": "",
+                "res": "",
+                "listing": "",
+                "res_casier": "",
+                "listing_casier": "",
+                "res_liaison": "",
+                "listing_liaison": "",
+                "tracer_res": "",
+                "tracer_listing": "",
+                "damocle": "",
+                "loi": [
+                    "",
+                    ""
+                ],
+                "tracer_loi": [],
+                "lig": "",
+                "ic_cold": ""
+            },
+            "lmtd_dpth_fll_intl_lvl": ,
+            "Froude_lmtd_bdry": ,
+            "tlrc_fll_intl_lvl": {
+                "rltv": ,
+                "abslt": 
+            },
+            "incrmt_fll_intl_lvl": 
+        }
+    },
+
+    "run_configs": {
+        "run_ic": {
+            "run_to_stdy": ,
+            "run_prd": ,
+            "run_tlrc": {
+                "rltv_dpth": ,
+                "abslt_dpth": ,
+                "rltv_flrt": ,
+                "abslt_flrt": 
+            }
+        }
+    },
+
+    "iprint": 
+}
