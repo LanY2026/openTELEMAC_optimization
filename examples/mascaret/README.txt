@@ -11,7 +11,7 @@ If kernel Mascaret is used or type of prescribed level is not used as boundary c
 
 A pre-run could be performed, by utilizing kernel of Mascaret or Rezo, to get acceptablly quasi-steady results with steady prescribed boundary condition and initial condition. Total run period and tolerance can be defined for the pre-run. Initial condition of computational nodes in addition to input cross-section profiles is generated if pre-run is performed.
 
-The work is on the basis of TELEMAC-MASCARET v8p5.
+The work is on the basis of TELEMAC-MASCARET v9.0.0.
 
 
 
